@@ -1,5 +1,5 @@
 # Anonymail
-Anonymous mail client powered by 10-minute-mail
+Anonymous Email client powered by 10-minute-mail
 # Requirements:
 Python3
 <BR>
